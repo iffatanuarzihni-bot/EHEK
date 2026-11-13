@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Welcome! Let's start learning!");
+    alert("Selamat Datang! Mari Belajar Bahasa melayu!");
 }
